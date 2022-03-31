@@ -34,6 +34,9 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+
+    <!-- BOM containing all the third-party libraries and dependencies that are used in the
+    cloud project and the version numbers of the individual projects -->
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
